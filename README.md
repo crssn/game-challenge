@@ -1,5 +1,14 @@
 # Soccer Game Simulation
 
+## Running the game
+
+[>> Run the game here!](http://crssn.info/game-challenge/?moveInterval=10)  
+*Note: you can edit the ?moveInterval query parameter in your browser url to change the speed of the game simulation.*
+
+Or download the repo and open index.html in any modern browser and click Start Game. 
+
+A 'moveInterval' query parameter can be added to the url in order to speed up the game simulation. The value assigned here should be in milliseconds. Eg: ?moveInterval=1000 will move the players 1 second at a time.
+
 ## Requirements
 
 A playing area is 100m x 100m. A game has a referee and 10 players. A player moves 1m every second and starts out in a 
@@ -27,9 +36,3 @@ objects required to simulate the game:
 * Referee keeps track of Player's movements and issues cards while keeping track of the which Players have received 
 cards and the time they were issued
 
-## How to run the game
-
-Open index.html in any modern browser and click Start Game. 
-
-A 'moveInterval' query parameter can be added to the url in order to speed up the game simulation. The value assigned 
-here should be in milliseconds. Eg: ?moveInterval=1000 will move the players 1 second at a time.
