@@ -2,7 +2,8 @@
 
 ## Running the game
 
-[>> Run the game here!](http://crssn.info/game-challenge/?moveInterval=10)  
+[>> Run the game here!](http://crssn.info/game-challenge/?moveInterval=10)
+
 *Note: you can edit the ?moveInterval query parameter in your browser url to change the speed of the game simulation.*
 
 Or download the repo and open index.html in any modern browser and click Start Game. 
